@@ -78,7 +78,7 @@ body {
   /* black base with softer orange glow */
   background: radial-gradient(circle at top right,
       rgba(254, 61, 18, 0.8) 0%,
-      #000 70%) no-repeat fixed;
+      #000 50%) no-repeat fixed;
 
   color: var(--foreground);
 }
